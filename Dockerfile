@@ -1,2 +1,2 @@
 COPY httpd:latest
-FROM /usr/local/apache2/htdocs
+FROM index.html /usr/local/apache2/htdocs
